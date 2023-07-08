@@ -2,7 +2,7 @@
 import { AuthType, ClaimType } from "@sismo-core/sismo-connect-server";
 import { SpaceConfig } from "../types";
 
-//           UPDATE HERE ↓↓↓
+//           UdfgdfgPDATE HERE ↓↓↓
 export const myNewSpaceConfigMain : SpaceConfig = {
   metadata: {
     slug: "aaa-my-new-space", // /!!!!!\ MUST MATCH YOUR SPACE FOLDER NAME
